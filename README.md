@@ -14,8 +14,6 @@ This repository contains a **Car Wash website** which might include:
 ✔ Front-end visuals showing services offered by a car wash  
 ✔ Designed to be beginner-friendly and easy to customize
 
-> *No description currently provided in the repo — you can update it based on your project logic.*
-
 ---
 
 ## 📁 Files Included
