@@ -15,6 +15,10 @@ This repository contains a **Car Wash website** which might include:
 ✔ Designed to be beginner-friendly and easy to customize
 
 ---
+## Project Showcase
+<img src="./Vgif.gif" alt="" width="100%">
+
+---
 
 ## 📁 Files Included
 
